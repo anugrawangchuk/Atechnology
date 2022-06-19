@@ -1,31 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@anugrawangchuk 
-mohitkhokhar172
-/
-addressbook
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-addressbook/pom.xml
-@mohitkhokhar172
-mohitkhokhar172 Update pom.xml
-Latest commit 454a2f1 on Nov 9, 2018
- History
- 1 contributor
-508 lines (482 sloc)  20.7 KB
-
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
